@@ -1,6 +1,4 @@
 <?php
-
-
 class Usuario{
     public $nome;
     public $email;
@@ -35,7 +33,6 @@ class Usuario{
         }
     }
 }
-
 
 class Livro{
     public $titulo;
